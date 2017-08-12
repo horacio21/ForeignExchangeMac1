@@ -9,7 +9,7 @@
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new ForeignExchangePage();
         }
 
         protected override void OnStart()
